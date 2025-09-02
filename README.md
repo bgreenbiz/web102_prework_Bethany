@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 * by multiple attributes.
 ## Video Walkthrough
 Here's a walkthrough of implemented features:
-<img src='[https://drive.google.com/file/d/11pNX_IkD94MdNyX_lFfjHvLK3fRNJHjh/view?usp=drive_link](https://drive.google.com/file/d/11pNX_IkD94MdNyX_lFfjHvLK3fRNJHjh/view?usp=sharing)' title='Website Video Walkthrough' width='725px' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/11pNX_IkD94MdNyX_lFfjHvLK3fRNJHjh/view?usp=sharing' title='Website Video Walkthrough' width='725px' alt='Video Walkthrough' />
 GIF created with ScreenToGif
 ## Notes
 Some challenges I encountered when building this web application was achieving the correct functionality of the select
