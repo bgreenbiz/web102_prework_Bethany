@@ -18,7 +18,7 @@
     <div id="description-container">
         <p>The purpose of our company is to fund independent games. We've been in operation for 12 years.</p>
     </div>
-
+    
     <!-- top games & other interesting stats -->
     <h2>Stats</h2>
     <div class="stats-container">
@@ -54,6 +54,14 @@
         <button id="unfunded-btn">Show Unfunded Only</button>
         <button id="funded-btn">Show Funded Only</button>
         <button id="all-btn">Show All Games</button>
+        <label for="sort-options">Sort By </label>
+        <select name="sort-options" id="sort-options">
+            <option value="default">Default</option>
+            <option value="pledged">Pledged Amount</option>
+            <option value="name">Name (A-Z)</option>
+            <option value="backers">Number of Backers</option>
+            <option value="goal">Funding Goal</option>
+        </select>
     </div>
     <div id="games-container">
 
